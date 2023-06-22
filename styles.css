@@ -1,0 +1,40 @@
+#boxTitle{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#boxGame{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#color{
+    text-align: center;
+    color: #fff;
+    font-size: 20px;
+}
+
+#vermelho{
+    background-color:#FF0000 ;
+    height: 100px;
+    width: 100px;
+    border-radius: 100px;
+}
+#verde{
+    background-color:#228B22 ;
+    height: 100px;
+    width: 100px;
+    border-radius: 100px;
+}
+#amarelo{
+    background-color:#FFD700 ;
+    height: 100px;
+    width: 100px;
+    border-radius: 100px;
+}
+#azul{
+    background-color:#0000FF ;
+    height: 100px;
+    width: 100px;
+    border-radius: 100px;
+}
